@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld1</string>
+    <string name="disText">大家好！这是第一个程序</string>
+</resources>
